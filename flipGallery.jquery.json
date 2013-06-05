@@ -1,7 +1,7 @@
 {
 	"name": "flipGallery",
-	"title": "flipGallery - Animated Photo Gallery jQuery Plugin",
-	"description": "A jQuery photo gallery plugin with sleek flipping transitions between thumbnails and lightbox enlargements. Other features include dynamic image streaming, auto pagination, auto cropping and transparent image overlay. The layout, speed, co-ordination and text can easily be modified in the settings.",
+	"title": "flipGallery - jQuery Powered Animated Photo Gallery",
+	"description": "A photo gallery with sleek flipping transitions between thumbnails and lightbox enlargements. Other features include dynamic image streaming, auto pagination, auto cropping and transparent image overlay. The layout, speed, co-ordination and text can easily be modified in the settings.",
 	"keywords": [
 		"flip",
 		"gallery",
