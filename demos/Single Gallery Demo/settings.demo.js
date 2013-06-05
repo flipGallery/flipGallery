@@ -1,7 +1,7 @@
 /*!
  * flipGallery - jQuery Powered Animated Photo Gallery
- * version: 1.0
- * @requires jQuery v1.6 or later
+ * version: 1.0.1
+ * @requires jQuery v1.5 or later
  *
  * License at http://flipgallery.net/#download
  * 
