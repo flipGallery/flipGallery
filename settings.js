@@ -1,5 +1,5 @@
 /*!
- * flipGallery - jQuery Plugin
+ * flipGallery - jQuery Powered Animated Photo Gallery
  * version: 1.0
  * @requires jQuery v1.6 or later
  *
