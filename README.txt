@@ -1,5 +1,5 @@
 /*!
- * flipGallery - jQuery Plugin
+ * flipGallery - jQuery Powered Animated Photo Gallery
  * version: 1.0
  * @requires jQuery v1.6 or later
  *
@@ -13,7 +13,7 @@
 
 About flipGallery 
 
-flipGallery is a free and lightweight jQuery photo gallery with sleek flipping transitions between thumbnails and lightbox enlargements. Other features include dynamic image streaming, auto pagination, auto cropping and transparent image overlay. It only takes a few minutes to set-up and the layout, speed, co-ordination and text can easily be modified in the settings. Upgrades are also available.
+flipGallery is a free and lightweight jQuery powered photo gallery with sleek flipping transitions between thumbnails and lightbox enlargements. Other features include dynamic image streaming, auto pagination, auto cropping and transparent image overlay. It only takes a few minutes to set-up and the layout, speed, co-ordination and text can easily be modified in the settings. Upgrades are also available.
 
 How To Set Up
 
