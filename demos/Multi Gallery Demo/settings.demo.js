@@ -1,13 +1,13 @@
 /*!
  * flipGallery - jQuery Powered Animated Photo Gallery
- * version: 1.0.5
+ * version: 1.1.0
  * @requires jQuery v1.5 or later
  *
  * License at http://flipgallery.net/#download
  * 
  * Example at http://flipgallery.net
  *
- * Copyright 2013 flipGallery.net
+ * Copyright 2014 flipGallery.net
  *
  */
 
@@ -457,7 +457,7 @@ var fg_text_settings = {
     
         // *Picture/Lightbox Text Settings*
     
-        lightbox_text_style: 'text-align: left; font-size: 14px; line-height: 1.4; color: #000; text-align: center;',
+        lightbox_text_style: 'font-size: 14px; line-height: 1.4; color: #000; text-align: center;',
     
         lightbox_text_background_style: 'background-color: #fff; opacity:0.8;',
     
@@ -467,7 +467,7 @@ var fg_text_settings = {
     
         back_image_text: '&lsaquo;&lsaquo; Back',
     
-        next_and_back_image_text_style: 'color: #000; font-weight: bold; color: #000;',
+        next_and_back_image_text_style: 'font-weight: bold; color: #000;',
     
         image_number_page: 'Image',
     

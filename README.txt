@@ -1,13 +1,13 @@
 /*!
  * flipGallery - jQuery Powered Animated Photo Gallery
- * version: 1.0.5
+ * version: 1.1.0
  * @requires jQuery v1.5 or later
  *
  * License at http://flipgallery.net/#download
  * 
  * Example at http://flipgallery.net
  *
- * Copyright 2013 flipGallery.net
+ * Copyright 2014 flipGallery.net
  *
  */
 
@@ -24,7 +24,7 @@ How To Set Up
 
 with:
 
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script type="text/javascript" src="flipgallery/settings.js"></script>
 <script type="text/javascript" src="flipgallery/flipgallery.min.js"></script>
 </head>
